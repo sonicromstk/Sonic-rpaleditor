@@ -1,4 +1,4 @@
-// http://segaretro.org/Palette
+// https://sonicroms.tk
 
 function draw_palettes() {
 	$('palettes').innerHTML = "";
